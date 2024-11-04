@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O LP de patins é uma Landing Page responsiva de uma loja de patins com muitas animações e transições!
 
-- [Acesse o projeto finalizado, online](https://jonasmaia12.github.io/DevLinks/)
+- [Acesse o projeto finalizado, online](https://jonasmaia12.github.io/Patins/)
 
 - [Assistir aulas](https://app.rocketseat.com.br/classroom/css-animations-and-transitions)
 
